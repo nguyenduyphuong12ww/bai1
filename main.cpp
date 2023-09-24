@@ -11,7 +11,7 @@ struct PhanSo
 //Cau 1:
 void Nhap(PhanSo &a)
 {
-    cout<<"Nhap tu:"<<endl;
+    cout<<"Nhap tu::"<<endl;
     cin>>a.TuSo;
     cout<<endl<<"Nhap mau:"<<endl;
     cin>>a.MauSo;
