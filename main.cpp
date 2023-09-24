@@ -12,6 +12,7 @@ struct PhanSo
 void Nhap(PhanSo &a)
 {
     cout<<"Nhap tu::"<<endl;
+    cout<<"chao ";
     cin>>a.TuSo;
     cout<<endl<<"Nhap mau:"<<endl;
     cin>>a.MauSo;
